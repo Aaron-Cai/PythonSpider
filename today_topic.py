@@ -3,7 +3,7 @@ import urllib2,urllib,re,time,thread,gzip,cStringIO
 
 url_intouchtoday = 'http://view.news.qq.com/original/intouchtoday/n'
 
-no = 3034
+no = 3035
 
 user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)' 
 headers = { 'User-Agent' : user_agent }
